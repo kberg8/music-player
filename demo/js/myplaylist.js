@@ -18,5 +18,9 @@ var myPlaylist = [
         price:'0.99',
         duration:'0:30',
         cover:'mix/1.png'
+    },
+    {
+        mp3:'mix/2.mp3',
+        title: 'Gangsta Beatz'
     }
 ];
